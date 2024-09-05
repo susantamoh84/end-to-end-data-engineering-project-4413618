@@ -1,0 +1,9 @@
+LICENSE
+NOTICE
+README.md
+setup.py
+modern_data_stack_project.egg-info/PKG-INFO
+modern_data_stack_project.egg-info/SOURCES.txt
+modern_data_stack_project.egg-info/dependency_links.txt
+modern_data_stack_project.egg-info/requires.txt
+modern_data_stack_project.egg-info/top_level.txt
